@@ -1,7 +1,7 @@
 # Django Twitter Clone app
 
 ## Description
-Fully functional Django App that looks ecxatly like real Twitter.
+Fully functional Django App that looks exactly like real Twitter.
 
 ## Setup
 
@@ -9,7 +9,7 @@ Fully functional Django App that looks ecxatly like real Twitter.
 
 2. Move to the base directory: ```cd Django-Twitter-Clone```
 
-3. Create a new python enviroment with: ```python -m venv env```.
+3. Create a new python environment with: ```python -m venv env```.
 
 4. Activate enveronment with: ```env\Scripts\activate``` on windows, or ```source env/bin/activate``` on Mac and Linux.
 
@@ -17,4 +17,4 @@ Fully functional Django App that looks ecxatly like real Twitter.
 
 6. Make migrations with: ```python manage.py makemigrations``` and then ```python manage.py migrate```.
 
-7. Run app localy with: ```python manage.py runserver```.
+7. Run the app locally  ```python manage.py runserver```.
