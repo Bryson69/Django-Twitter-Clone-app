@@ -1,4 +1,5 @@
 asgiref==3.2.10
+config==0.5.0.post0
 dj-database-url==0.5.0
 Django==3.0.8
 django-crispy-forms==1.9.2
@@ -10,6 +11,7 @@ opencv-python==4.3.0.36
 Pillow==7.2.0
 protobuf==3.10.0
 psycopg2==2.8.6
+python-decouple==3.3
 pytz==2020.1
 six==1.13.0
 sqlparse==0.3.1
