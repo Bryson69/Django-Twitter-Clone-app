@@ -17,6 +17,7 @@ Fully functional Django App that looks exactly like real Twitter.
 
 6. Install required dependencies with: ```pip install -r requirements.txt```.
 
+
 7. Make migrations with: ```python manage.py makemigrations``` and then ```python manage.py migrate```.
 
 8. Run the app locally  ```python manage.py runserver```.
